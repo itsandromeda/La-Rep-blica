@@ -232,6 +232,12 @@ aside h2 {
     color: #fff;
 }
 
+.sharing-icons {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+}
+
 .alcalde-chilca-photo {
     float: right;
     background-image: url(../images/spritesheet.png);
@@ -257,9 +263,13 @@ aside h2 {
     right: 10px;
 }
 
+/*Story 2*/
+
 .champions-league {
     top: 87px;
 }
+
+/*Publicity*/
 
 .publicity {
     background-image: url(../images/spritesheet.png);
